@@ -1,0 +1,20 @@
+.container {
+    position: relative;
+    justify-content: center !important;
+    height: 60px;
+}
+
+.burger {
+    position: absolute;
+    left: 0;
+    margin-left: 10px;
+}
+
+.container a {
+    margin: 0 auto;
+}
+
+.container a svg {
+    color: #000000 !important;
+    font-size: 24px;
+}

@@ -1,0 +1,18 @@
+.footer {
+    margin-top: 30px;
+    background-color: #000000 !important;
+    color: #ffffff;
+    padding: 15px 0;
+}
+
+.container {
+    height: inherit;
+    display: flex;
+    gap: 3px;
+}
+.container div {
+    padding: 15px;
+    height: inherit;
+    flex: 2;
+    border: 3px solid #ffffff;
+}
